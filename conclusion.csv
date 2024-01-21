@@ -1,0 +1,4 @@
+model,xtest_precision,xtest_recall,xtest_f1score,xtest_true_negative,xtest_false_negative,xtest_false_positive,xtest_true_positive,X_test_accuracy,x_precision,x_recall,x_f1score,x_true_negative,x_false_negative,x_false_positive,x_true_positive,X_accuracy
+default,0.96,0.72,0.82,56653,3,25,65,0.99951,0.99,0.95,0.97,283250,3,25,448,0.99901
+grid_search_cv,0.96,0.72,0.82,56653,3,25,65,0.99951,0.99,0.93,0.96,283250,3,33,440,0.99987
+randomized_search_cv,0.98,0.7,0.82,56655,1,27,63,0.9995,1,0.94,0.97,283252,1,27,446,0.9999
